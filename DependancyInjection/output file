@@ -1,0 +1,28 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+[32m :: Spring Boot :: [39m              [2m (v3.2.6)[0;39m
+
+[2m2024-06-12T23:10:13.635+05:30[0;39m [32m INFO[0;39m [35m8516[0;39m [2m---[0;39m [2m[DependancyInjection] [           main][0;39m [2m[0;39m[36mi.i.DependancyInjectionApplication      [0;39m [2m:[0;39m Starting DependancyInjectionApplication using Java 17.0.11 with PID 8516 (C:\Users\saich\workspace-spring\DependancyInjection\target\classes started by saich in C:\Users\saich\workspace-spring\DependancyInjection)
+[2m2024-06-12T23:10:13.640+05:30[0;39m [32m INFO[0;39m [35m8516[0;39m [2m---[0;39m [2m[DependancyInjection] [           main][0;39m [2m[0;39m[36mi.i.DependancyInjectionApplication      [0;39m [2m:[0;39m No active profile set, falling back to 1 default profile: "default"
+JavaCourse.class file is loading..
+JavaCourse is instantiated..
+PythonCourse.class file is loading..
+PythonCourse object is instantiated..
+Student.class file is loading..
+Student object is instantiated..
+[2m2024-06-12T23:10:14.775+05:30[0;39m [32m INFO[0;39m [35m8516[0;39m [2m---[0;39m [2m[DependancyInjection] [           main][0;39m [2m[0;39m[36mi.i.DependancyInjectionApplication      [0;39m [2m:[0;39m Started DependancyInjectionApplication in 1.867 seconds (process running for 3.195)
+Student [course=in.ineuron.comp.JavaCourse@2ce45a7b]
+Student.prepare()
+
+Course choosen is ::in.ineuron.comp.JavaCourse
+Course content ::1.Java SE
+ 2.J2SE 
+ 3.Spring Framework
+ 4.Microservices architecture
+ 5.Rest APIs.....
+Course price is ::10000
